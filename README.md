@@ -7,6 +7,7 @@ What I'm Learning
 * Cybersecurity Fundamentals
 * Network Security
 * Web development basics
+* Computer Networks
 * Python Programming
 * Git & GitHub
 * Data Structures and algorithms 
@@ -16,8 +17,8 @@ Skills
 
 * Python
 * C Programming
-* Computer Networks
 * Problem Solving
+* Cybersecurity Basics
 * Team Collaboration
 
 Current Goals
