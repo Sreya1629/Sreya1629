@@ -33,7 +33,7 @@ I'm currently working on academic and personal projects. Stay tuned for updates 
 
 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/mary-sreya-552694384
+* LinkedIn: https://www.linkedin.com/in/marysreya
 * Email: sreyajoseph2007@gmail.com 
 
 Thanks for visiting my profile!
